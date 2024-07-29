@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SBAY</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: black;
+            color: white;
+            font-family: "Courier New", Courier, monospace;
+            font-size: 1em;
+        }
+        .s { color: blue; }
+        .b { color: purple; }
+        .a { color: red; }
+        .y { color: orange; }
+    </style>
+</head>
+<body>
+    <div>
+        <span class="s">S</span>
+        <span class="b">B</span>
+        <span class="a">A</span>
+        <span class="y">Y</span>
+        15.09.2026
+    </div>
+</body>
+</html>
